@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Molecule Man",
+    "secretIdentity": "Dan Jukes",
+    "powers": ["Radiation resistance", "Turning tiny", "Radiation blast"]
+  },
+  {
+    "name": "Madame Uppercut",
+    "secretIdentity": "Jane Wilson",
+    "powers": [
+      "Million tonne punch",
+      "Damage resistance",
+      "Superhuman reflexes"
+    ]
+  }
+]
